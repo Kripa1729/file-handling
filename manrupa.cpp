@@ -36,3 +36,10 @@ int main() {
   append(string);
   reading();
 }
+/*ifstream fin;
+fin.open("data_in.txt");
+char next;
+while (!fin.eof()){
+fin.get(next);
+cout << next;
+}*/
